@@ -18,7 +18,7 @@ CUPS (Common Unix Printing System) is a modular printing system for Unix-like co
 You can install the component using [Composer](https://getcomposer.org/).
 
 ````sh
-composer require smalot/cups-ipp
+composer require adaoss/cups-ipp
 ````
 
 Then, require the `vendor/autoload.php` file to enable the autoloading mechanism provided by Composer.
