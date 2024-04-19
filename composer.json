@@ -1,14 +1,15 @@
 {
-    "name": "smalot/cups-ipp",
+    "name": "adaoss/cups-ipp",
     "description": "CUPS Implementation of IPP - PHP Client API",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sebastien Malot",
-            "email": "sebastien@malot.fr"
+            "name": "Adao Santos",
+            "email": "adaoss@gmail.com"
         }
     ],
+    
     "require": {
         "php": ">=5.6",
         "php-http/socket-client": "*",
